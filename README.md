@@ -38,7 +38,7 @@ Specifically, the analysis aims to:
 
 Only 31% of shipments arrived on time; 69% were delayed or stuck in transit. 
 
-Impact: Lower satisfaction, higher costs, SLA breach risk.
+**Impact: Lower satisfaction, higher costs, SLA breach risk.**
 
 ### 🛣️ Route planning
 
