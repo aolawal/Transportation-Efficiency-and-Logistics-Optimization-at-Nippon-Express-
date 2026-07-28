@@ -33,7 +33,9 @@ Specifically, the analysis aims to:
 # key Findings and Risk Implication 
 
 ## What the Data shows?
+
 Delivery reliability
+
 Only 31% of shipments arrived on time; 69% were delayed or stuck in transit. 
 Impact: Lower satisfaction, higher costs, SLA breach risk.
 🛣️ Route planning
