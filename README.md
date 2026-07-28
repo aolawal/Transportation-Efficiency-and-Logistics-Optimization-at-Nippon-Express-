@@ -10,10 +10,11 @@ Nippon Express is operating in an increasingly complex logistics environment cha
 This project leverages transportation data analytics to evaluate operational performance and identify opportunities to improve transportation planning, logistics efficiency, and cost optimization.
 
 Specifically, the analysis aims to:
-- Assess whether current route planning assumptions accurately reflect actual transportation performance. 
-- Identify routes, cities, warehouses, and regions with frequent delays, excessive transit times, missed delivery windows, and route deviations. 
-- Evaluate carrier and warehouse performance based on delivery reliability, operational efficiency, freight cost, and shipment profitability. 
-- Identify the key drivers of freight costs, delivery delays, and operational inefficiencies. 
+
+- Assess whether current route planning assumptions accurately reflect actual transportation performance.
+- Identify routes, cities, warehouses, and regions with frequent delays, excessive transit times, missed delivery windows, and route deviations.
+- Evaluate carrier and warehouse performance based on delivery reliability, operational efficiency, freight cost, and shipment profitability.
+- Identify the key drivers of freight costs, delivery delays, and operational inefficiencies.
 - Provide actionable recommendations to improve route planning, carrier management, delivery reliability, and overall supply chain performance. 
 
 <img width="2491" height="1087" alt="Transport Performance Dashbaord" src="https://github.com/user-attachments/assets/b5be6625-b316-4b47-a768-8c31b5c84e84" />
