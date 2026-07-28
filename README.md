@@ -44,40 +44,43 @@ Only 31% of shipments arrived on time; 69% were delayed or stuck in transit.
 
 Actual transit times far exceed planned times—air took nearly 3× longer, sea also lagged. 
 
-Impact: Unrealistic plans, poor scheduling, more delays.
+**Impact: Unrealistic plans, poor scheduling, more delays.**
 
 ### 📦 Carrier performance
 
 Japan Post performs best (34% on time, 12.25 hr delay). Nippon Express performs worst (28.6% on time, 14.29 hr delay). 
 
-Impact: Inconsistent service and higher transport risk.
+**Impact: Inconsistent service and higher transport risk.**
 
 ### 🚛 Transport mode performance
 
 Truck handles 67% of shipments and performs best; rail performs worst. 
 
-Impact: Mode choice may be driving delays.
+**Impact: Mode choice may be driving delays.**
 
 ## 🏭 Regional & warehouse variation
 
 Chubu leads; Hokkaido lags. WH OSA 02 performs best (33% on time, highest volume). WH FUK 04 performs worst (28%). 
 
-Impact: Uneven capability and potential bottlenecks.
+**Impact: Uneven capability and potential bottlenecks.**
 
 ### 💰 Freight cost efficiency
 
 Sagawa is most expensive per km; Japan Post is cheapest. 
-Impact: Clear opportunities for cost optimization.
+
+**Impact: Clear opportunities for cost optimization.**
 
 ### 👤 Manager performance
 
 Ren Suzuki leads (34.1% on time); Haruto Sato trails (28.4%). 
+
 **Impact: Best practices not consistently applied.**
 
 ### 📉 Data quality issues
 
 Missing and incomplete records reduce reporting accuracy and decision reliability. 
-*Impact: Poor visibility and weakened decision making.*
+
+**Impact: Poor visibility and weakened decision making.**
 
 
 
@@ -85,19 +88,26 @@ Missing and incomplete records reduce reporting accuracy and decision reliabilit
 # Recommendations 
 
 ## What Needs to happen?
-🚚 Redesign transportation planning
+
+### 🚚 Redesign transportation planning
 Recalibrate planned route times using historical transit performance to improve planning accuracy.
-📦 Strengthen carrier performance management
+
+### 📦 Strengthen carrier performance management
 Implement KPI driven carrier scorecards (on time rate, delay hours, cost/km, route deviation, profitability) and rebalance shipment allocation through quarterly reviews.
-🚛 Optimize transport mode selection
+
+### 🚛 Optimize transport mode selection
 Investigate Rail underperformance and reassign shipments to more reliable modes where feasible.
-🛣️ Improve route compliance
+
+### 🛣️ Improve route compliance
 Analyze deviation causes and deploy dynamic route optimisation supported by TMS.
-👤 Standardize operational best practices
+
+### 👤 Standardize operational best practices
 Benchmark high performing managers and replicate their practices via SOPs, coaching, and monitoring.
-🏭 Strengthen warehouse operations
+
+### 🏭 Strengthen warehouse operations
 Review low performing warehouses to identify and resolve processing inefficiencies.
-📊 Improve data governance
+
+### 📊 Improve data governance
 Enforce mandatory validation, standardized data entry, and automated quality checks to eliminate missing or inconsistent records.
 
 # Conclusion
