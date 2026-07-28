@@ -8,18 +8,24 @@ Nippon Express is operating in an increasingly complex logistics environment cha
 
 # Project Objectives
 This project leverages transportation data analytics to evaluate operational performance and identify opportunities to improve transportation planning, logistics efficiency, and cost optimization.
+
 Specifically, the analysis aims to:
-•	Assess whether current route planning assumptions accurately reflect actual transportation performance. 
-•	Identify routes, cities, warehouses, and regions with frequent delays, excessive transit times, missed delivery windows, and route deviations. 
-•	Evaluate carrier and warehouse performance based on delivery reliability, operational efficiency, freight cost, and shipment profitability. 
-•	Identify the key drivers of freight costs, delivery delays, and operational inefficiencies. 
-•	Provide actionable recommendations to improve route planning, carrier management, delivery reliability, and overall supply chain performance. 
+- Assess whether current route planning assumptions accurately reflect actual transportation performance. 
+- Identify routes, cities, warehouses, and regions with frequent delays, excessive transit times, missed delivery windows, and route deviations. 
+- Evaluate carrier and warehouse performance based on delivery reliability, operational efficiency, freight cost, and shipment profitability. 
+- Identify the key drivers of freight costs, delivery delays, and operational inefficiencies. 
+- Provide actionable recommendations to improve route planning, carrier management, delivery reliability, and overall supply chain performance. 
 
 <img width="2491" height="1087" alt="Transport Performance Dashbaord" src="https://github.com/user-attachments/assets/b5be6625-b316-4b47-a768-8c31b5c84e84" />
 
+
+
 <img width="2476" height="1081" alt="Route Planning Dashboard" src="https://github.com/user-attachments/assets/c0f88184-d5c2-4c1a-b235-aabb819f2b77" />
 
+
+
 <img width="2479" height="1090" alt="Carrier and Warehouse Performance Dashboard" src="https://github.com/user-attachments/assets/722d9be6-4574-4c04-859e-bb7ae5da9f71" />
+
 
 
 
