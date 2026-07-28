@@ -37,7 +37,9 @@ Specifically, the analysis aims to:
 Delivery reliability
 
 Only 31% of shipments arrived on time; 69% were delayed or stuck in transit. 
+
 Impact: Lower satisfaction, higher costs, SLA breach risk.
+
 🛣️ Route planning
 Actual transit times far exceed planned times—air took nearly 3× longer, sea also lagged. 
 Impact: Unrealistic plans, poor scheduling, more delays.
